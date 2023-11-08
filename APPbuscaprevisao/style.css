@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+ background: url(https://source.unsplash.com/1600x1900/?landscape);
+ height: 100vh;
+ width: 100vw;
+ background-size: cover;    
+ background-repeat: no-repeat;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+.box-p{display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.box-m{
+    margin-top: 60px;
+}
